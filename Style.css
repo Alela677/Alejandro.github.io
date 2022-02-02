@@ -190,7 +190,7 @@ border-radius: 5%;
 }
 
 
-@media screen and (max-width: 860px ) {
+@media screen and (max-width:412px ) {
    
     .banner{
         width: 100%;
@@ -303,7 +303,7 @@ border-radius: 5%;
 }
 
 }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 810px) {
 
 
     .banner{
@@ -367,8 +367,9 @@ border-radius: 5%;
         padding-bottom: 0.5%;
         padding-left: 2%;
         padding-right: 2%;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-    
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-right: 2%;
+        margin-left: 2%;
     }
 
     .banca p{
@@ -405,7 +406,7 @@ border-radius: 5%;
 .Fform{
     width: 50%;
     height: 50%;    
-    padding-left: 25%;
+    padding-left: 23%;
 }
 
 .form {
